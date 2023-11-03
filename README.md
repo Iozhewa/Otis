@@ -5,4 +5,5 @@ This isn't part of the story -- As of now, Ned will be _very mad_.
 ## GitHub Objectives:
   1) Utilize **cat** to read system files
   2) Interchange use of **ls** and **cd** to travel down the directory
-  3) Discover secret files **-a** (convert)
+  3) RGlzY292ZXIgc2VjcmV0IGZpbGVzICoqLWEqKg== !!!
+  4) Apply Base 64 to decrypt messages (how convenient...)
